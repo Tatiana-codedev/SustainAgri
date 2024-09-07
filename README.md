@@ -38,7 +38,7 @@ Contribuições são bem-vindas! Se você encontrar algum bug, tiver alguma suge
 
 **Agradecimentos:**
 
-Agradeço à comunidade da Imersão Dev com Google Gemini especialmente o [Leonardo Airam Vieira](https://www.linkedin.com/in/airamvieira/) e [Jadson](https://www.linkedin.com/in/JadsonReis) e aos [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/), [Rafaela Balerini](https://www.linkedin.com/in/rafaellaballerini/) da Alura e [Luciano Martins](https://www.linkedin.com/in/lucianommartins/) pelas ferramentas, orientações e recursos que tornaram este projeto possível.
+Agradeço à comunidade da Imersão Dev com Google Gemini especialmente o [Leonardo Airam Vieira](https://www.linkedin.com/in/airamvieira/) e [Jadson](https://www.linkedin.com/in/JadsonReis) e aos [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/), [Rafaela Balerini](https://www.linkedin.com/in/rafaellaballerini/) da Alura e [Luciano Martins](https://www.linkedin.com/in/lucianommartins/) da Google pelas ferramentas, orientações e recursos que tornaram este projeto possível.
 
 **Próximos passos:**
 
