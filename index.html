@@ -1,48 +1,74 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SustainAgri Buscador de Notícias Agrícolas</title>
-    <link rel="stylesheet" href="styles.css">
-    
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div class="overlay"></div>
     <header>
-        <nav>
-            <div class="logo">
-                <li><h1>SustainAgri </h1></li>
-                <li><img src="/img/logo.png" width="20px" height=" 20px" alt="Logo" class="logo-img"></li>
-            </div>
-            <ul>
-                <li><a href="#" id="homeLink">Home</a></li>
-                <li><a href="#" id="about">Sobre</a></li>
-                <li><a href="#" id="linkedin">LinkedIn</a></li>
-                <li><a href="#" id="github">GitHub</a></li>
-            </ul>
-        </nav>
+      <nav>
+        <div class="logo">
+          <ul>
+            <li><h1>SustainAgri</h1></li>
+            <li>
+              <img
+                src="/img/logo.png"
+                width="20px"
+                height=" 20px"
+                alt="Logo"
+                class="logo-img"
+              />
+            </li>
+          </ul>
+        </div>
+        <ul>
+          <li><a href="#" id="homeLink">Home</a></li>
+          <li><a href="#" id="about">Sobre</a></li>
+          <li><a href="#" id="linkedin">LinkedIn</a></li>
+          <li><a href="#" id="github">GitHub</a></li>
+        </ul>
+      </nav>
     </header>
-    
+
     <main>
-        <div class="search-container">
-            <h2>Encontre Notícias sobre Agricultura Sustentável </h2>
-            <form onsubmit="return false;">
-                <input type="text" id="searchInput" placeholder="Digite sua pesquisa...">
-                <button id="searchButton"><span><Strong>Buscar</Strong></span></button>
-            
-            </form>
-        </div>
-        <div class="results-container hidden" id="results">
-            <!-- Resultados aparecerão aqui -->
-        
-        </div>
+      <div class="search-container">
+        <h2>Encontre Notícias sobre Agricultura Sustentável</h2>
+        <form onsubmit="return false;">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Digite sua pesquisa..."
+          />
+          <button id="searchButton">
+            <span><strong>Buscar</strong></span>
+          </button>
+        </form>
+      </div>
+      <div class="results-container hidden" id="results">
+        <!-- Resultados aparecerão aqui -->
+      </div>
     </main>
-    
+
     <footer>
-        <p> <strong>2024 Global Search for Sustainable Agriculture Practices Insight.</strong><br> &copy; Developed by <a href="https://www.linkedin.com/in/tatianabpinheiro/" target="_blank" title="Acesso ao LinkedIn" ><strong>Tatiana Pinheiro</strong></a>. Todos os direitos reservados.</p>
+      <p>
+        <strong
+          >2024 Global Search for Sustainable Agriculture Practices
+          Insight.</strong
+        ><br />
+        &copy; Developed by
+        <a
+          href="https://www.linkedin.com/in/tatianabpinheiro/"
+          target="_blank"
+          title="Acesso ao LinkedIn"
+          ><strong>Tatiana Pinheiro</strong></a
+        >. Todos os direitos reservados.
+      </p>
     </footer>
-    
-    <script src="app.js"></script>
-</body>
+
+    <script src="news.js"></script>
+    <script src="scripts.js"></script>
+  </body>
 </html>
