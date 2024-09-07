@@ -34,11 +34,11 @@ Contribuições são bem-vindas! Se você encontrar algum bug, tiver alguma suge
 
 **Autor:**
 
-[https://www.linkedin.com/in/tatianabpinheiro/](Tatiana Pinheiro) - Desenvolvedor iniciante apaixonado por tecnologia e sustentabilidade.
+[Tatiana Pinheiro](https://www.linkedin.com/in/tatianabpinheiro/) - Desenvolvedor iniciante apaixonado por tecnologia e sustentabilidade.
 
 **Agradecimentos:**
 
-Agradeço à comunidade da Imersão Dev com Google Gemini especialmente o [Leonardo Airam Vieira](https://www.linkedin.com/in/airamvieira/) e [Jadson](https://www.linkedin.com/in/JadsonReis) e aos [https://www.linkedin.com/in/guilherme-lima-developer/](Guilherme Lima), [https://www.linkedin.com/in/rafaellaballerini/](Rafaela Balerini) da Alura e [https://www.linkedin.com/in/lucianommartins/](Luciano Martins) pelas ferramentas, orientações e recursos que tornaram este projeto possível.
+Agradeço à comunidade da Imersão Dev com Google Gemini especialmente o [Leonardo Airam Vieira](https://www.linkedin.com/in/airamvieira/) e [Jadson](https://www.linkedin.com/in/JadsonReis) e aos [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/), [Rafaela Balerini](https://www.linkedin.com/in/rafaellaballerini/) da Alura e [Luciano Martins](https://www.linkedin.com/in/lucianommartins/) pelas ferramentas, orientações e recursos que tornaram este projeto possível.
 
 **Próximos passos:**
 
